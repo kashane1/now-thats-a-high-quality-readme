@@ -1,7 +1,9 @@
 # Now-thats-a-high-quality-README
-[video link]()
+[video link](https://drive.google.com/file/d/1k3GwrNY9pcCruHkbMfqR7V-tUHykTOId/view?usp=sharing)
 
 This link is a  walkthrough video demonstrating the functionality of the application.
+
+A sampleREADME.md file is included to show what this application can create.
 
 ---
 ## Requirements

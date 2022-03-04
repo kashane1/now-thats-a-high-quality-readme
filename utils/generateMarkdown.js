@@ -77,11 +77,11 @@ function generateMarkdown(data) {
 # ${data.title}
 ${renderLicenseSection(data.license)}
 * [Description](#description)
-* [Installation Instructions](#installation-instructions)
-* [Usage Information](#usage-information)
+* [Installation](#installation)
+* [Usage](#usage)
 * [License](#license)
-* [Contribution Guidelines](#contribution-guidelines)
-* [Test Instructions](#test-instructions)
+* [Contributing](#contributing)
+* [Tests](#tests)
 * [Questions](#questions)
 ---
 ### Description

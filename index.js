@@ -65,7 +65,7 @@ function writeToFile(fileName, data) {
 // TODO: Create a function to initialize app
 const init = () => {
   promptQuestions()
-    .then((data) => writeToFile('README.md', data))
+    .then((data) => writeToFile('sampleREADME.md', data))
     .then(() => console.log('Successfully wrote to README.md'))
     .catch((err) => console.error(err));
 };
